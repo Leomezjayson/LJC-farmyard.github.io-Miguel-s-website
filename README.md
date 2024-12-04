@@ -1,1 +1,3 @@
-# LJC-farmyard.github.io-Miguel-s-website
+- LJC Farmyard is a leading e-commerce and commercial website, specializing in the online sale of organic produce and related products.
+- Welcome to LJC Farmyard, your premier online destination for organic fruits, vegetables, and more.
+- LJC Farmyard is a business-to-business (B2B) and business-to-consumer (B2C) e-commerce platform, dedicated to providing high-quality organic products to our customers.
